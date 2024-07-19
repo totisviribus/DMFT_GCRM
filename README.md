@@ -6,7 +6,7 @@ This repository is the official implementation of reserach ``[Enhancing biodiver
 This C code simulates the Generalized Consumer-Resource model (GCRM) with intraspecific suppression.
 
 To run the C code, packages below are needed: 
-- gsl (for random number generator)
+- GSL (for random number generator)
 - openmp (to boost matrix multiplication)
 
 
