@@ -1,5 +1,5 @@
-# Enhancing biodiversity through intraspecific suppression in large ecosystems
-This repository is the official implementation of reserach ``[Enhancing biodiversity through intraspecific suppression in large ecosystems](https://arxiv.org/abs/2305.12341).''
+# Interplay between intraspecific suppression and environment in shaping biodiversity
+This repository is the official implementation of reserach ``Interplay between intraspecific suppression and environment in shaping biodiversity.''
 
 
 ## Simulation.c
